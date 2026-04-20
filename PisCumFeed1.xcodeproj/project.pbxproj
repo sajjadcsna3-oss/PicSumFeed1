@@ -11,9 +11,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		9ACB594B2F96460C00D8D7F5 /* PisCumFeed1 */ = {
+		9ACB59772F9647AC00D8D7F5 /* PicSumFeed */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = PisCumFeed1;
+			path = PicSumFeed;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		9ACB59402F96460C00D8D7F5 = {
 			isa = PBXGroup;
 			children = (
-				9ACB594B2F96460C00D8D7F5 /* PisCumFeed1 */,
+				9ACB59772F9647AC00D8D7F5 /* PicSumFeed */,
 				9ACB594A2F96460C00D8D7F5 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				9ACB594B2F96460C00D8D7F5 /* PisCumFeed1 */,
+				9ACB59772F9647AC00D8D7F5 /* PicSumFeed */,
 			);
 			name = PisCumFeed1;
 			packageProductDependencies = (
